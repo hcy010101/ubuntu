@@ -1,0 +1,4 @@
+.repo/
+rk3399pro_linux_release_v2.5.1_20210304/docs/
+*.repo
+*.swp
